@@ -1,1 +1,1 @@
-# PlstSiteSettingsViewer
+# Pleasanter SiteSettings Viewer
